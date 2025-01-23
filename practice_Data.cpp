@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     cout << "Hello World!\n";
-    court << "pulling functions\n";
+    court << "pulling functions in github\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
